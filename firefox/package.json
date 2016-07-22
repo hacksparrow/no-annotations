@@ -1,0 +1,20 @@
+{
+  "title": "No Annotations",
+  "name": "no-annotations",
+  "version": "0.0.1",
+  "description": "Firefox extension for disabling annotations on YouTube",
+  "main": "index.js",
+  "author": "Hage Yaapa",
+  "engines": {
+    "firefox": ">=38.0a1",
+    "fennec": ">=38.0a1"
+  },
+  "license": "MIT",
+  "keywords": [
+    "youtube",
+    "disable",
+    "block",
+    "annotation",
+    "annotations"
+  ]
+}
