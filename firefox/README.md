@@ -1,3 +1,3 @@
 #No Annotations
 
-Firefox extension for disabling annotations on YouTube.
+Firefox add-on for disabling annotations on YouTube.
